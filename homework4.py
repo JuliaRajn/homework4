@@ -1,4 +1,6 @@
 my_string=input()
+l=len(my_string)
+print(l)
 print(my_string)
 print(my_string.upper())
 print(my_string.lower())
